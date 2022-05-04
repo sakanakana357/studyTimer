@@ -1,0 +1,39 @@
+#container {
+    text-align: center;
+}
+
+button{
+    width: 30%;
+    height: 100px;
+    background-color: rgb(16, 235, 56) ;
+    font-size: 50px;
+    margin-top: 50px;
+    color: aliceblue;
+    border-radius: 50%;
+}
+
+canvas{
+    margin-top: 100px;
+}
+
+body {
+    background-color: rgb(88, 117, 248);
+}
+
+#stop {
+    background-color:rgb(254, 67, 79);
+}
+
+h1{
+    font-size: 100px;
+    color: gold;
+}
+
+#msg-container{
+    padding-left: 190px;
+}
+
+#msg {
+    font-size: 50px;
+    color :rgb(247, 239, 239);
+}
